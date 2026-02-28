@@ -132,7 +132,3 @@ The goal is consistent, compounding depth across mathematics, modeling, and syst
 
 This repository is for research, documentation, and educational purposes only.  
 No financial advice is provided. No live trading strategies are disclosed.
-
----
-
-End of README.
